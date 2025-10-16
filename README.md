@@ -17,3 +17,15 @@
     <img src="./assets/top.PNG" width="100%" />
     </a>
 </div>
+
+## Overview
+
+This work presents an autonomous airdrop system based on an aerial manipulator that actively compensates for UAV tracking errors during payload release. A hierarchical disturbance compensation strategy integrated with a nonlinear model predictive control framework enables robust trajectory generation under dynamic uncertainties. The proposed method effectively reduces sensitivity to release timing and improves both agility and landing precision in airdrop missions.
+
+### Key Features
+
+- An autonomous aerial throwing system based on an aerial manipulator is proposed to enable an agile and precise execution of airdrop missions. 
+
+- Imposing continuous constraints on the parabolic target landing point enables the generation of a feasible airdrop trajectory that effectively reduces the sensitivity of landing accuracy to payload release uncertainty.
+
+- By integrating a hierarchical disturbance compensation strategy into the NMPC framework, system robustness and landing accuracy are significantly improved.
